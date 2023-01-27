@@ -4,7 +4,6 @@
 <!-- <p align="center"><img src="https://odds-readme-badge-rainbow.vercel.app/api" /></p>
  -->
  <h4 style="color:red">Surasak Sincharoen</h4>
- <h5>Code every time Bug everywhere</h5>
  
  ![](https://komarev.com/ghpvc/?username=moomdate&color=green)
 </div>
